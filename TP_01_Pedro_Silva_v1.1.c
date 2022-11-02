@@ -16,9 +16,7 @@
 /*
 Centro Federal de Educação Tecnológica de Minas Gerais
 Graduação em Engenharia Mecânica
-Gabriel Milagres
 Pedro Henrique Silva
-Rafael Freitas
 */
 
 
